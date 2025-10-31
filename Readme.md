@@ -1,4 +1,5 @@
 # EDU-AI Cognitive Stage Detector (Gemini)
+Link: https://edu-ai-cognitive-stage-detector.streamlit.app/
 
 Hybrid rule + Gemini Embeddings to estimate Clarify/Plan/Execute/Verify/Reflect stage percentages for learner messages, with temporal smoothing and weighted aggregation. Streamlit UI + advanced Plotly analytics.
 
